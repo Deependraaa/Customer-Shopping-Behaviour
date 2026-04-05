@@ -1,4 +1,4 @@
-<img width="1162" height="636" alt="image" src="https://github.com/user-attachments/assets/074af4f0-a464-4153-bfd6-419fe6ec3ec2" /># 🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Customer Shopping Behavior Analysis
 
 An end-to-end **Data Analytics Portfolio Project** focused on understanding customer shopping behavior, identifying purchasing trends, and delivering business recommendations using **Python, SQL, and Power BI**.
 
@@ -132,7 +132,7 @@ Dashboard KPIs:
 <img width="1162" height="636" alt="image" src="https://github.com/user-attachments/assets/d41680e3-95b8-45aa-a172-ca93cc0d9499" />
 
 
-(Add your Power BI dashboard screenshot here)
+
 
 ---
 
